@@ -1,0 +1,14 @@
+
+
+Reference:
+Tor-
+https://deshmukhsuraj.wordpress.com/2015/03/08/anonymous-web-scraping-using-python-and-tor/
+Webscraping using beautiful soup
+https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
+
+Dependencies:
+apt-get -y install python-pip
+pip install BeautifulSoup 
+pip install bs4
+apt-get install tor
+sudo apt-get install python-socksipy
